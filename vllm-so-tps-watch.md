@@ -6,6 +6,7 @@ OCR extract decode TPS 회귀 (v0.23→0.24, guided JSON + MTP) — `apply_gramm
 
 | 확인 시각 (KST) | #49013 | #49150 | #49168 | main staging | 관련 신규 (코어 외) | 비고 |
 |-----------------|--------|--------|--------|--------------|---------------------|------|
+| 2026-07-27 12:00 | open | open | open | 여전히 `torch.full` | #49694 [open] [Bug]: ngram_gpu spec decode + structured outputs (xgrammar) + async s; #49210 [open] [Bug]: Engine core livelock (100% CPU, no crash) with MTP speculative ; #48765 [open] [Bug]: disable_any_whitespace is silently ignored at the request level | 서버 cron 갱신 |
 | 2026-07-26 12:00 | open | open | open | 여전히 `torch.full` | #49694 [open] [Bug]: ngram_gpu spec decode + structured outputs (xgrammar) + async s; #49210 [open] [Bug]: Engine core livelock (100% CPU, no crash) with MTP speculative ; #48765 [open] [Bug]: disable_any_whitespace is silently ignored at the request level | 서버 cron 갱신 |
 | 2026-07-25 12:00 | open | open | open | 여전히 `torch.full` | #49694 [open] [Bug]: ngram_gpu spec decode + structured outputs (xgrammar) + async s; #49210 [open] [Bug]: Engine core livelock (100% CPU, no crash) with MTP speculative ; #48765 [open] [Bug]: disable_any_whitespace is silently ignored at the request level | 서버 cron 갱신 |
 | 2026-07-24 12:00 | open | open | open | 여전히 `torch.full` | #49210 [open] [Bug]: Engine core livelock (100% CPU, no crash) with MTP speculative ; #48765 [open] [Bug]: disable_any_whitespace is silently ignored at the request level; #48663 [open] [Bug]: `minimax_m3` reasoning parser splits structured-output JSON at  | 서버 cron 갱신 |
