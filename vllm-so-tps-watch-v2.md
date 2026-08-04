@@ -16,4 +16,5 @@ OCR extract decode TPS 회귀 (v0.23→0.24) — structured-output path (#45424 
 
 | 확인 시각 (KST) | #49013 | #49150 | #49780 | #49919 | torch.full (참고) | 관련 신규 | 비고 |
 |-----------------|--------|--------|--------|--------|------------------|-----------|------|
+| 2026-08-04 12:53 | open | open | open | open | 있음 | #50924 [open] [Bug]: EngineCore dies on first guided-decoding request when dspark sp | 서버 cron 갱신 |
 | 2026-08-04 12:53 | open | open | open | open | 있음 | #50924 [open] [Bug]: EngineCore dies on first guided-decoding request when dspark sp; #49738 [open] [Bugfix][Structured Output][Spec Decode] Fix async grammar bitmask ali | 서버 cron 갱신 |
