@@ -1,5 +1,7 @@
 # vLLM SO TPS upstream watch
 
+> **Superseded:** daily updates moved to [`vllm-so-tps-watch-v2.md`](./vllm-so-tps-watch-v2.md). This file is frozen.
+
 OCR extract decode TPS 회귀 (v0.23→0.24, guided JSON + MTP) — `apply_grammar_bitmask` staging (#45424 → #49013).
 
 **해결 판정:** `#49013` closed **그리고** (#49150 또는 #49168 머지, 또는 main에서 `torch.full` staging 제거)
